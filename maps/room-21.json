@@ -3,7 +3,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "room-21-chunk-1-2c60c44e.png",
+      "image": "room-21-chunk-1-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29,7 +29,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "room-21-chunk-2-2c60c44e.png",
+      "image": "room-21-chunk-2-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44,7 +44,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "room-21-chunk-3-2c60c44e.png",
+      "image": "room-21-chunk-3-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -59,7 +59,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "room-21-chunk-4-2c60c44e.png",
+      "image": "room-21-chunk-4-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -74,7 +74,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "room-21-chunk-5-2c60c44e.png",
+      "image": "room-21-chunk-5-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -89,7 +89,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "room-21-chunk-6-2c60c44e.png",
+      "image": "room-21-chunk-6-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -104,7 +104,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "room-21-chunk-7-2c60c44e.png",
+      "image": "room-21-chunk-7-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -119,7 +119,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "room-21-chunk-8-2c60c44e.png",
+      "image": "room-21-chunk-8-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -134,7 +134,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "room-21-chunk-9-2c60c44e.png",
+      "image": "room-21-chunk-9-b51dc7c8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -149,7 +149,7 @@
     {
       "columns": 12,
       "firstgid": 2305,
-      "image": "room-21-chunk-10-2c60c44e.png",
+      "image": "room-21-chunk-10-b51dc7c8.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -4151,7 +4151,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "https://play.workadventu.re/_/bi2h7qgc31/100-roads.github.io/HopeBrainTrust/hope-brain-trust.json#entry-room-21"
+          "value": "https://play.workadventu.re/@/workspacesky/hope-brain-trust/hope-brain-trust.json#entry-room-21"
         }
       ],
       "visible": true,
