@@ -95,7 +95,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/bi2h7qgc31\/100-roads.github.io\/HopeBrainTrust\/hope-brain-trust.json#entry-room-9"
+                 "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/hope-brain-trust\/hope-brain-trust.json#entry-room-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"zone",
                  "height":610.768,
                  "id":1,
                  "name":"focus",
@@ -257,6 +256,7 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":1087.69,
                  "x":414.988119563551,
@@ -316,7 +316,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -383,6 +383,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":60
 }
